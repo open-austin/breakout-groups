@@ -6,7 +6,7 @@ Every hack night at [Open Austin](https://www.open-austin.org/), we break out in
 
 These groups change from week to week, with some lasting just a single night to others progressing over several months. To keep track of these fluctuating groups, we use GitHub issues to open, close and update groups over time.
 
-You can see a list of highled projects on the [Open Austin page](https://www.open-austin.org/projects/), or in the [issues list for this GitHub repository](https://github.com/chihacknight/breakout-groups/issues).
+You can see a list of highled projects on the [Open Austin page](https://www.open-austin.org/projects/), or in the [issues list for this GitHub repository](https://github.com/open-austin/breakout-groups/issues).
 
 TODO: Make available a list of active projects using Github API (EX: https://chihacknight.org/breakouts.html)
 
